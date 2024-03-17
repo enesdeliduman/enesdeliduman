@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJS, JavaScript**
 
-- 📫 How to reach me **enesduman124@gmail.com,enesdeliduman@proton.me**
+- 📫 How to reach me **enesduman124@gmail.com, enesdeliduman@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
