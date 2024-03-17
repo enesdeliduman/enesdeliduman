@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/enesdman0?tab=repositories)
 
-- 💬 Ask me about **NodeJS,JavaScript**
+- 💬 Ask me about **NodeJS, JavaScript**
 
 - 📫 How to reach me **enesduman124@gmail.com,enesdeliduman@proton.me**
 
