@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET CORE, Blazoe**
+- 🌱 I’m currently learning **.NET CORE, Blazor**
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/enesdeliduman?tab=repositories)
 
