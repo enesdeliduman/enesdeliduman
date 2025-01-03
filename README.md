@@ -1,18 +1,18 @@
   <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **.NET CORE, Blazoe**
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/enesdeliduman?tab=repositories)
 
-- 💬 Ask me about **NodeJS, JavaScript**
+- 💬 Ask me about **NodeJS, JavaScript, .NET CORE, Blazor**
 
 - 📫 How to reach me **enesduman124@gmail.com, enesdeliduman@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enesdeliduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enesdeliduman" height="30" width="40" /></a>
-<a href="https://instagram.com/enesdeliduman?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesdeliduman_" height="30" width="40" /></a>
+<a href="https://instagram.com/enesdeliduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesdeliduman_" height="30" width="40" /></a>
 <a href="https://www.enesdeliduman.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="enesdeliduman.com" height="30" width="40" /></a>
 </p>
 
